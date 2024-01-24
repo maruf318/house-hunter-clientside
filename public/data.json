@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "house_name": "Cozy Cottage",
+    "room": 2,
+    "location": "Serenity Street",
+    "rent": 1200,
+    "image_url": "https://i.imgur.com/mQR4QMK.jpg"
+  },
+  {
+    "id": 2,
+    "house_name": "Modern Manor",
+    "room": 3,
+    "location": "Tranquil Terrace",
+    "rent": 2000,
+    "image_url": "https://i.imgur.com/2Qe5ziy.jpg"
+  },
+  {
+    "id": 3,
+    "house_name": "Urban Retreat",
+    "room": 1,
+    "location": "Metropolitan Avenue",
+    "rent": 800,
+    "image_url": "https://i.imgur.com/lACcTqB.jpg"
+  },
+  {
+    "id": 4,
+    "house_name": "Rustic Haven",
+    "room": 4,
+    "location": "Nature Lane",
+    "rent": 1500,
+    "image_url": "https://i.imgur.com/GwcJ12y.jpg"
+  },
+  {
+    "id": 5,
+    "house_name": "Charming Chalet",
+    "room": 2,
+    "location": "Harmony Heights",
+    "rent": 1000,
+    "image_url": "https://i.imgur.com/c9QyXgy.jpg"
+  },
+  {
+    "id": 6,
+    "house_name": "Tranquil Bungalow",
+    "room": 1,
+    "location": "Peaceful Parkway",
+    "rent": 900,
+    "image_url": "https://i.imgur.com/rKgQIVs.jpg"
+  }
+]
