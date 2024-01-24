@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 
 const Rooms = () => {
-  const [allData, setallData] = useState([]);
+  const [allData, setAllData] = useState([]);
   useEffect(() => {
     fetch("data.json")
       .then((res) => res.json())
-      .then((data) => setallData(data));
+      .then((data) => setAllData(data));
   }, []);
   return (
     <div>
